@@ -30,21 +30,3 @@ A brief description of what this project is about.
 ### Open Source Contributions
 - [Project Name](https://github.com/organization/project-name) - Description of your contribution.
 
-## Get in Touch
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website](https://yourwebsite.com)
-
-## Statistics
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=htpck&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=htpck&layout=compact&theme=radical)
-
-![GitHub followers](https://img.shields.io/github/followers/htpck?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/htpck?style=social)
-
-
-![Your Image](https://your-image-url.com/image.jpg)
-![Your GIF](https://your-gif-url.com/gif.gif)
