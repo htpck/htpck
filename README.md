@@ -15,14 +15,6 @@ I'm Hilal, a Unity developer with over 3 years of experience in C# SDK developme
 - **Frameworks and Tools**: Unity, Unreal Engine, Docker, Git
 - **Specialties**: VR Development, Game Optimization, Scripting
 
-## Projects
-
-### [Awesome Unity Project](https://github.com/htpck/awesome-unity-project)
-A brief description of what this project is about.
-
-### [Another Cool Project](https://github.com/htpck/another-cool-project)
-A brief description of what this project is about.
-
 ## Contributions
 
 ### Open Source Contributions
