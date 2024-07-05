@@ -28,5 +28,5 @@ A brief description of what this project is about.
 ## Contributions
 
 ### Open Source Contributions
-- [HMS Unity Plugin]([https://github.com/organization/project-name](https://github.com/EvilMindDevs/hms-unity-plugin)) - Worked on Hms unity plugin during my time at Huawei.
+- [HMS Unity Plugin](https://github.com/EvilMindDevs/hms-unity-plugin) - Worked on Hms unity plugin during my time at Huawei.
 
