@@ -7,7 +7,7 @@ I'm Hilal, a Unity developer with over 3 years of experience in C# SDK developme
 - 🔭 I’m currently working on [Unity Render Streaming](https://github.com/Unity-Technologies/UnityRenderStreaming)
 - 🌱 I’m currently learning advanced VR development techniques
 - 💬 Ask me about Unity, C#, VR, and game development
-- 📫 How to reach me: [My Email](hayriye.hilal@outlook.çom)
+- 📫 How to reach me: [My Email](hayriye.hilal@outlook.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love exploring new technologies and playing video games
 
