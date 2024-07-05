@@ -9,7 +9,7 @@ I'm Hilal, a Unity developer with over 3 years of experience in C# SDK developme
 - 💬 Ask me about Unity, C#, VR, and game development
 - 📫 How to reach me: [My Email](hayriye.hilal@outlook.com)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love exploring new technologies and playing video games
+- ⚡ Fun fact: I am currently on my 4th run on Baldur's Gate
 
 ## Skills
 
