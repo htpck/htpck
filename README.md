@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Hilal, a Unity developer with over 3 years of experience in C# SDK development and VR development. I'm passionate about creating immersive experiences and innovative solutions.
+I'm Hilal, a Unity developer with over 3 years of experience in C#, Java, SDK development and VR development. I'm passionate about creating immersive experiences and innovative solutions.
 
 - 🔭 I’m currently working on [Unity Render Streaming](https://github.com/Unity-Technologies/UnityRenderStreaming)
 - 🌱 I’m currently learning advanced development techniques
