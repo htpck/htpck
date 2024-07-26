@@ -5,15 +5,15 @@
 I'm Hilal, a Unity developer with over 3 years of experience in C# SDK development and VR development. I'm passionate about creating immersive experiences and innovative solutions.
 
 - 🔭 I’m currently working on [Unity Render Streaming](https://github.com/Unity-Technologies/UnityRenderStreaming)
-- 🌱 I’m currently learning advanced VR development techniques
-- 💬 Ask me about Unity, C#, VR, and game development
+- 🌱 I’m currently learning advanced development techniques
+- 💬 Ask me about Unity, C#, Java.
 - 📫 How to reach me: [My Email](hayriye.hilal@outlook.com)
 
 ## Skills
 
-- **Languages**: C#, JavaScript
+- **Languages**: C#, Java, C++ 
 - **Frameworks and Tools**: Unity, Unreal Engine, Docker, Git
-- **Specialties**: VR Development, Game Optimization, Scripting
+- **Specialties**: VR Development, Software Optimization, Scripting
 
 
 
